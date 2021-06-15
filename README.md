@@ -1,1 +1,1 @@
-# Python-Curso-em-Video
+# My python solutions of Curso em Video's exercises.
